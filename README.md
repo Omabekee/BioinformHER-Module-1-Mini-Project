@@ -1,4 +1,4 @@
-# BioinformHER-Module-1-Mini-Project: Comprehensive sequence analysis of the human TNF gene
+# BioinformHER Mini-Project: Comprehensive sequence analysis of the human TNF gene
 This is a repository for the BioinformHER Module 1 Mini Project, containing sequence files, analysis report, gene study insights and key findings.
 
 ## Objective: To apply bioinformatics skills learned in Module 1 to analyze and interpret the human TNF gene sequence, which encodes a proinflammatory cytokine called TNF.
